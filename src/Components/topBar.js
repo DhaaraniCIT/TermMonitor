@@ -12,7 +12,7 @@ class TopBar extends React.Component {
                 <input type="text" className="form-control"/>
                 <div className="input-group-append">
                   <button className="btn btn-light" type="submit">
-                    <span className="mr-2 submit">SUMBIT</span> <span className="material-icons">east</span>
+                    <span className="mr-2 submit">SUBMIT</span> <span className="material-icons">east</span>
                   </button>
                 </div>
               </div>
